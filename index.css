@@ -1,0 +1,45 @@
+* {
+    margin: 1px;
+    padding: 0;
+}
+
+a:hover, a:focus {
+    font-style: italic;
+}
+
+main{
+    padding:30px;
+    padding-left: 40%;
+}
+
+aside{
+    padding:10px;
+    padding-left: 5%;
+}
+
+h1{
+    float: center;
+    padding-left: 20px;
+    color: blue;
+}
+h3{
+    padding-left: 50px;
+}
+
+footer{
+    padding-bottom: 10px;
+    text-align: center;
+    padding-top:250px;
+}
+
+p{
+    padding-left: 80px;
+}
+
+body{
+    background: sandybrown;
+}
+
+body.p{
+    font: 10px;
+}
